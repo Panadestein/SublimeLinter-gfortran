@@ -1,0 +1,6 @@
+SublimeLinter-gfortran
+-------------------------------
+This linter plugin for SublimeLinter provides an interface to gfortran.
+
+For more information, please see:
+https://github.com/Panadestein/SublimeLinter-gfortran
