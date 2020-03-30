@@ -1,6 +1,6 @@
 -----------------------------------------------------------------
 
-SublimeLinter-gfotran
+SublimeLinterFortran
 ================================
 
 This linter plugin for [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) provides an interface to [gfotran](https://gcc.gnu.org/wiki/GFortran). It will be used with files that have the “FORTRAN” syntax (free format). This is highly inpired by the [SublimeFortran](https://github.com/315234/SublimeFortran.git) package's linter, however some changes have been introduced to simplify and improve the regex matching.
