@@ -3,7 +3,7 @@
 SublimeLinterFortran
 ================================
 
-Small [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) plugin for Fortran. It works better on free-format Fortran files. It provides very minimal linting capabilities. For something more complete see [SublimeFortran](https://github.com/315234/SublimeFortran.git) project.
+Small [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) plugin for Fortran. It works best on free-format Fortran files and provides minimal linting capabilities. For something more complete, see the [SublimeFortran](https://github.com/315234/SublimeFortran.git) project.
 
 ## Installation
 
