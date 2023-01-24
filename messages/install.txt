@@ -1,6 +1,6 @@
 SublimeLinter-gfortran
 -------------------------------
-This linter plugin for SublimeLinter provides an interface to gfortran.
+This Sublime Text plugin offers minimal linting capabilities for Fortran files utilizing gfortran.
 
-For more information, please see:
-https://github.com/Panadestein/SublimeLinter-gfortran
+For more information, see:
+https://github.com/Panadestein/SublimeLinterFortran
