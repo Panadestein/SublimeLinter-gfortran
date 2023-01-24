@@ -3,7 +3,7 @@
 SublimeLinterFortran
 ================================
 
-This plugin for [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) provides support for [gfortran](https://gcc.gnu.org/wiki/GFortran) linting on Sublime Text. It works better on free-format Fortran files. The code is highly inpired by the [SublimeFortran](https://github.com/315234/SublimeFortran.git) linter, however some changes have been introduced to simplify and improve the regex matching.
+Small [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) plugin for Fortran. It works better on free-format Fortran files. It provides very minimal linting capabilities. For something more complete see [SublimeFortran](https://github.com/315234/SublimeFortran.git) project.
 
 ## Installation
 
