@@ -9,7 +9,7 @@ Small [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) plugin for
 
 Clone this repo into your `Packages` directory.
 
-### Rquirements
+### Requirements
 
 You need to have `SublimeLinter` and `gfortran` on your system for the plugin to work.  In addition, ensure that `gfortran` is available on SublimeLinter's path. See the docs for [troubleshooting PATH configuration](http://sublimelinter.readthedocs.io/en/latest/troubleshooting.html#finding-a-linter-executable).
 
